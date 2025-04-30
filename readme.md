@@ -7,7 +7,9 @@ Welcome to **Turtle Crossing**, a beginner-friendly game built with Python's bui
 - Real-time game logic with graphics
 
 ---
-![Game Screenshot](img.png)
+<div align="center">
+  <img src="img.png" alt="Game Screenshot" width="300">
+</div>
 ## 🎯 Project Goal
 
 The main goal of this project is to **teach you OOP in Python step-by-step** through a fun game where the player (a turtle) tries to cross a road full of cars.
